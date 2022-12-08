@@ -1,4 +1,4 @@
-# Space-Project
+# Space Heroes
 
 Make sure you have Python installed here:
 https://www.python.org/downloads/
